@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "095bf6d06ed90547703e",
-    "url": "/ftcalc/static/css/main.507def8e.chunk.css"
+    "revision": "5ccbe67f729604e8c8f4",
+    "url": "/ftcalc/static/css/main.0a44429f.chunk.css"
   },
   {
-    "revision": "095bf6d06ed90547703e",
-    "url": "/ftcalc/static/js/main.095bf6d0.chunk.js"
+    "revision": "5ccbe67f729604e8c8f4",
+    "url": "/ftcalc/static/js/main.5ccbe67f.chunk.js"
   },
   {
     "revision": "6154548a7bf39ac6e595",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/ftcalc/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "df46ab51289b9069891e9bf0cf3a2e64",
+    "revision": "8f1e447e8ac6ec699bc2f898b907dcfb",
     "url": "/ftcalc/index.html"
   }
 ];

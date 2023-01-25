@@ -1,7 +1,7 @@
 {
-  "main.css": "/ftcalc/static/css/main.507def8e.chunk.css",
-  "main.js": "/ftcalc/static/js/main.095bf6d0.chunk.js",
-  "main.js.map": "/ftcalc/static/js/main.095bf6d0.chunk.js.map",
+  "main.css": "/ftcalc/static/css/main.0a44429f.chunk.css",
+  "main.js": "/ftcalc/static/js/main.5ccbe67f.chunk.js",
+  "main.js.map": "/ftcalc/static/js/main.5ccbe67f.chunk.js.map",
   "static/js/1.6154548a.chunk.js": "/ftcalc/static/js/1.6154548a.chunk.js",
   "static/js/1.6154548a.chunk.js.map": "/ftcalc/static/js/1.6154548a.chunk.js.map",
   "static/js/2.6fcf5553.chunk.js": "/ftcalc/static/js/2.6fcf5553.chunk.js",
@@ -9,8 +9,8 @@
   "runtime~main.js": "/ftcalc/static/js/runtime~main.afa78bcb.js",
   "runtime~main.js.map": "/ftcalc/static/js/runtime~main.afa78bcb.js.map",
   "static/media/logo.svg": "/ftcalc/static/media/logo.06e73328.svg",
-  "static/css/main.507def8e.chunk.css.map": "/ftcalc/static/css/main.507def8e.chunk.css.map",
+  "static/css/main.0a44429f.chunk.css.map": "/ftcalc/static/css/main.0a44429f.chunk.css.map",
   "index.html": "/ftcalc/index.html",
-  "precache-manifest.0812fe22080b389fa159b2d588409ea4.js": "/ftcalc/precache-manifest.0812fe22080b389fa159b2d588409ea4.js",
+  "precache-manifest.864c6a940d955bc30b72baef280ce22a.js": "/ftcalc/precache-manifest.864c6a940d955bc30b72baef280ce22a.js",
   "service-worker.js": "/ftcalc/service-worker.js"
 }
