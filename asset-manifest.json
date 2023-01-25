@@ -1,16 +1,16 @@
 {
-  "main.css": "/ftcalc/static/css/main.0a44429f.chunk.css",
-  "main.js": "/ftcalc/static/js/main.5ccbe67f.chunk.js",
-  "main.js.map": "/ftcalc/static/js/main.5ccbe67f.chunk.js.map",
-  "static/js/1.6154548a.chunk.js": "/ftcalc/static/js/1.6154548a.chunk.js",
-  "static/js/1.6154548a.chunk.js.map": "/ftcalc/static/js/1.6154548a.chunk.js.map",
-  "static/js/2.6fcf5553.chunk.js": "/ftcalc/static/js/2.6fcf5553.chunk.js",
-  "static/js/2.6fcf5553.chunk.js.map": "/ftcalc/static/js/2.6fcf5553.chunk.js.map",
-  "runtime~main.js": "/ftcalc/static/js/runtime~main.afa78bcb.js",
-  "runtime~main.js.map": "/ftcalc/static/js/runtime~main.afa78bcb.js.map",
-  "static/media/logo.svg": "/ftcalc/static/media/logo.06e73328.svg",
-  "static/css/main.0a44429f.chunk.css.map": "/ftcalc/static/css/main.0a44429f.chunk.css.map",
-  "index.html": "/ftcalc/index.html",
-  "precache-manifest.864c6a940d955bc30b72baef280ce22a.js": "/ftcalc/precache-manifest.864c6a940d955bc30b72baef280ce22a.js",
-  "service-worker.js": "/ftcalc/service-worker.js"
+  "files": {
+    "main.css": "/ftcalc/static/css/main.073c9b0a.css",
+    "main.js": "/ftcalc/static/js/main.1feb6817.js",
+    "static/js/787.4934b22f.chunk.js": "/ftcalc/static/js/787.4934b22f.chunk.js",
+    "static/media/logo.svg": "/ftcalc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ftcalc/index.html",
+    "main.073c9b0a.css.map": "/ftcalc/static/css/main.073c9b0a.css.map",
+    "main.1feb6817.js.map": "/ftcalc/static/js/main.1feb6817.js.map",
+    "787.4934b22f.chunk.js.map": "/ftcalc/static/js/787.4934b22f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1feb6817.js"
+  ]
 }
