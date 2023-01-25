@@ -1,5 +1,5 @@
 (function () {
-  var reactFiles = 'static/js/main.1feb6817.js';
+  var reactFiles = 'static/js/main.9f817135.js';
   var reactFiles = reactFiles.split(',');
   var reactFilesSize = reactFiles.length;
   var isIE11 = !!window.MSInputMethodContext && !!document.documentMode;
@@ -16,7 +16,7 @@
   for (var i = 0; i < reactFilesSize; i++) {
     var scriptTag = document.createElement('script');
     scriptTag.setAttribute(
-      'src', './' + reactFiles[i]
+      'src', 'https://shterev.github.io/ftcalc/' + reactFiles[i]
     );
     document.body.appendChild(scriptTag);
   }
